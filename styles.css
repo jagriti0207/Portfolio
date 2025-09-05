@@ -375,7 +375,7 @@ body.dark-mode .about-content p {
 .designation span {
     display: inline-block;
     transform: translateY(100%);
-    animation: slideUp 2s ease-in-out forwards;
+    animation: slideUp 2s ease-in-out forwards infinite;
 }
 
 body.dark-mode .animation-wrapper {
